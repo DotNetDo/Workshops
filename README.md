@@ -8,6 +8,7 @@ Collection of workshops organized for the .NET Dominican Community.
 
 ## Workshops List
 - [QA From Zero to Hero](QAZeroToHero/) - Mike Arias
+- [DevOps Day SDQ 19](DevOpsDaySDQ19/) - DotNetDo, Linux Dominicana Communities
 
 
 ## Contributors
